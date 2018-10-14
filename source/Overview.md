@@ -1,6 +1,6 @@
 # Excel VBA Date Picker created by Trevor Eyre
 
-[Info Button Text](https://github.com/ExcelTitan/Popup/raw/master/source/CalendarForm%2Bv1.5.2.zip){: .btn .btn--info}
+[Download: CalendarForm+v1.5.2.zip](https://github.com/ExcelTitan/Popup/raw/master/source/CalendarForm%2Bv1.5.2.zip)  
 
 ## Overview
 The goal in creating this form was first and foremost to overcome the monstrosity that is the Microsoft MonthView control. If you're reading this, you probably already know what I'm talking about. Many others have been in my place and have come up with their own date pickers to solve this problem. So why yet another custom date picker?  
